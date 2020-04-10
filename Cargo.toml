@@ -1,6 +1,6 @@
 [package]
 name = "wasm-diff"
-version = "0.1.0"
+version = "1.0"
 authors = ["Jose Luis Ricon <jose@ricon.xyz>"]
 edition = "2018"
 description="Generates diffs of text using wasm"
